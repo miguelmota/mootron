@@ -47,9 +47,9 @@ I also have [tmux](http://tmux.sourceforge.net/) and [Powerline](https://github.
 
 # Sources
 
-[Warez Vim theme source](https://github.com/vim-scripts/warez-colorscheme/blob/master/colors/warez.vim)
-[Bitstream font source](http://www.dafont.com/bitstream-vera-mono.font)
-[Circuit wallpaper source](http://wallpaperswide.com/circuit_board_art-wallpapers.html)
+- [Warez Vim theme source](https://github.com/vim-scripts/warez-colorscheme/blob/master/colors/warez.vim)
+- [Bitstream font source](http://www.dafont.com/bitstream-vera-mono.font)
+- [Circuit wallpaper source](http://wallpaperswide.com/circuit_board_art-wallpapers.html)
 
 # License
 
