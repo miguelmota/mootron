@@ -44,7 +44,7 @@ source ~/.bashrc
 
 # Other stuff
 
-I also have [tmux](http://tmux.sourceforge.net/) and [Powerline](https://github.com/Lokaltog/powerline) installed. I can't gurantee that it will look exactly the same for you because of all the other stuff I have installed. If you're curious here are all my [dotfiles](https://github.com/miguelmota/dotfiles) and [vim config](https://github.com/miguelmota/dotvim).
+I also have [tmux](http://tmux.sourceforge.net/) and [Powerline](https://github.com/Lokaltog/powerline) installed. I can't gurantee that it will look exactly the same for you because of all the other stuff I have installed. If you're curious here are all my [dotfiles](https://github.com/miguelmota/dotfiles) and [vim config](https://github.com/miguelmota/dotvim). To get the Powerline symbols, use the Deja Vu Sans Mono for Powerline font.
 
 # Sources
 
