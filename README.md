@@ -32,7 +32,7 @@ function parse_git_branch {
 }
 
 export PS1='\n\n\[\033[0;36m\]\u@$(hostname)\[\033[00m\]\[\033[0;96m\] : \w\[\033[00m\] \[\033[00;96m\]$(parse_git_branch)\n\[\033[00;96m\]\$\[\033[00m\] '
-export PS2="\[\033[0;32m\]>\[\033[00m\] "
+export PS2="\[\033[0;96m\]>\[\033[00m\] "
 ```
 
 Take effect:
