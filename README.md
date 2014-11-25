@@ -2,7 +2,7 @@
 
 A [Tron](http://en.wikipedia.org/wiki/Tron:_Legacy) like terminal theme.
 
-~[](https://github.com/miguelmota/mootron/blob/master/screenshot.png)
+![](https://github.com/miguelmota/mootron/blob/master/screenshot.png)
 
 # Instructions (Mac OSX)
 
