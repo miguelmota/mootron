@@ -9,6 +9,7 @@ A [Tron](http://en.wikipedia.org/wiki/Tron:_Legacy) like terminal theme.
 - Install font
 - Go to `Terminal -> Preferences -> Settings`, click cog at the bottom and import `Mootron.terminal`.
 - Go to `Window` tab and set background color to black 90% opacity and choose background image.
+- If you want to be hardcore, then on the `Text` tab uncheck `Disable ANSI colors`.
 
 # Vim theme
 
