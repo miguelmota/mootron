@@ -11,6 +11,8 @@ A [Tron](http://en.wikipedia.org/wiki/Tron:_Legacy) like terminal theme.
 - Go to `Window` tab and set background color to black 90% opacity and choose background image.
 - If you want to be hardcore, then on the `Text` tab uncheck `Display ANSI colors`.
 
+Tron blue: `#6FC3DF`
+
 # Vim theme
 
 Copy `warez.vim` to `~/.vim/colors`, and enable theme in `~/.vimrc`:
